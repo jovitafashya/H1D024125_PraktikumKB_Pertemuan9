@@ -1,7 +1,7 @@
 # Praktikum Kecerdasan Buatan - Pertemuan 9
 ## Algoritma Genetika 1
 
-Repository ini berisi implementasi Algoritma Genetika (Genetic Algorithm) untuk menyelesaikan kasus Knapsack Problem pada praktikum Kecerdasan Buatan pertemuan 9.
+Repository ini berisi implementasi Algoritma Genetika untuk menyelesaikan kasus Knapsack Problem pada praktikum Kecerdasan Buatan pertemuan 9.
 
 ---
 
