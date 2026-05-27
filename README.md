@@ -103,7 +103,7 @@ Barang Terpilih:
 - Barang8
 ```
 
-## hasil output crossover.py
+## hasil crossover.py
 <img width="468" height="103" alt="{59E93298-DFD8-47CD-9CDF-480FBE3AE1DD}" src="https://github.com/user-attachments/assets/753a8f2d-7615-401b-8309-cec314cf61cf" />
 
 ## hasil EvaluasiFitness.py
@@ -120,4 +120,5 @@ Barang Terpilih:
 
 ## hasil main.py
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b813ed6-f394-4670-8a96-621d48d1e483" />
+
 <img width="494" height="276" alt="{938D8039-959E-41C4-B675-35592D2A5EA0}" src="https://github.com/user-attachments/assets/e3e44e6f-a7f7-4cbf-85cf-291e15367703" />
