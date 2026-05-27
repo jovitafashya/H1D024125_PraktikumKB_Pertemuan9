@@ -94,13 +94,14 @@ Program akan menampilkan:
 Contoh output:
 
 ```bash
-Nilai Fitness Terbaik: 329
-Total Bobot: 50
+Nilai Fitness Terbaik: 334
+Total Bobot: 48
 Barang Terpilih:
-- Barang2
 - Barang5
 - Barang6
+- Barang7
 - Barang8
+- Barang9
 ```
 
 ## hasil crossover.py
